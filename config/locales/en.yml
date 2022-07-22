@@ -1,4 +1,5 @@
 en:
-  label_added_absolute_time_by: "%{author} added on %{age}"
-  label_updated_time: "It was last updated on %{value}"
-  label_updated_time_by: "%{author} updated on %{age}"
+  label_added_absolute_time_by: "Created by %{author}, %{age}"
+  label_updated_time: "Updated on %{value}"
+  label_updated_time_by: "Updated by %{author} - %{age}"
+  label_added_time_by: "Commit by %{author} on %{age}"
